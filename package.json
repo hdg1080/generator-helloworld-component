@@ -1,15 +1,16 @@
 {
-  "name": "generator-ng-component",
+  "name": "generator-hellowold-component",
   "version": "0.1.1",
   "description": "Yeoman generator",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "DaftMonk/generator-ng-component",
+  "repository": "hdg1080/generator-helloworld-component",
   "author": {
-    "name": "Tyler Henkel",
+    "name": "hdg1080",
     "email": "",
-    "url": "https://github.com/DaftMonk"
+    "url": "https://github.com/hdg1080"
   },
+  "original author": "Tyler Henkel",
   "engines": {
     "node": ">=0.10.0"
   },
